@@ -1,3 +1,8 @@
 # exclude files
 *.ascii
 *.dlm
+
+# do not exclude
+!/examples/IntensityTest/*
+!/examples/RedSet1/*
+!/examples/SampleLidar/*
