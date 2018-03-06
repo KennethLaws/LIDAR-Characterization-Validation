@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -isystem /opt/ros/groovy/include -pthread -Wall -Wextra    CMakeFiles/velodyne_node.dir/velodyne_node.o CMakeFiles/velodyne_node.dir/VelodyneMonitor.o  -o ../bin/velodyne_node -rdynamic -lboost_thread -lboost_filesystem -lboost_system -lrt 
